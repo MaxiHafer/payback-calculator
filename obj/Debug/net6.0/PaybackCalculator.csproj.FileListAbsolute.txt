@@ -1,0 +1,15 @@
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/bin/Debug/net6.0/PaybackCalculator
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/bin/Debug/net6.0/PaybackCalculator.deps.json
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/bin/Debug/net6.0/PaybackCalculator.runtimeconfig.json
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/bin/Debug/net6.0/PaybackCalculator.dll
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/bin/Debug/net6.0/ref/PaybackCalculator.dll
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/bin/Debug/net6.0/PaybackCalculator.pdb
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.csproj.AssemblyReference.cache
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.AssemblyInfoInputs.cache
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.AssemblyInfo.cs
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.csproj.CoreCompileInputs.cache
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.dll
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/ref/PaybackCalculator.dll
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.pdb
+/Users/mhafer/Develop/github.com/maxihafer/PaybackCalculator/obj/Debug/net6.0/PaybackCalculator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaybackCalculator", "PaybackCalculator.csproj", "{944C1CE4-8EDB-49B5-8104-79528610B3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944C1CE4-8EDB-49B5-8104-79528610B3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944C1CE4-8EDB-49B5-8104-79528610B3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944C1CE4-8EDB-49B5-8104-79528610B3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944C1CE4-8EDB-49B5-8104-79528610B3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
