@@ -1,11 +1,11 @@
 ﻿//EINGABE
-//Testnummer: 308342310318769
+//Testnummer: 276101123456789
 
 var input = "";
 
 while (true)
 {
-    Console.Write("Bitte 15 stellige Payback-Kartennummer eingeben: ");
+    Console.Write("Bitte 15 stellige UPN eingeben: ");
     input = Console.ReadLine();
 
     if (input != null && input.Length == 15)
@@ -26,34 +26,20 @@ for (var i = 0; i < input.Length; i++)
 }
 
 //Gewichtung der Ziffern
-for (var i = 0; i < sequence.Length; i++)
-{
-    //Console.Write($"{sequence[i]} = ");
-    if (i % 2 == 0)
-    {
-        sequence[i] *= 2;
-    }
-    //Console.WriteLine($"{sequence[i]},");
-}
-
-//Quersumme bilden
 var sum = 0;
+var prod = 10;
 for (var i = 0; i < sequence.Length; i++)
 {
-    //Console.WriteLine($"{sum} + {sequence[i]},");
-    if (sequence[i] > 9)
+    sum = (prod + sequence[i]) % 10;
+    if (sum == 0)
     {
-        sum += sequence[i] - 9;
+        sum = 10;
     }
-    else
-    {
-          sum += sequence[i];
-    }
-  
+    prod = (2 * sum) % 11;
 }
 
 //Prüfziffer berechnen
-var checkNum = 10 - sum % 10;
+var checkNum = 11 - prod;
 
 //AUSGABE
 Console.WriteLine($"Prüfziffer für {input} ist {checkNum}.");
